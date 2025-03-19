@@ -30,7 +30,7 @@ Installation
    cd music-app
    npm install
 
-   # Backend
+   Backend
    cd backend
    node server.js
    
