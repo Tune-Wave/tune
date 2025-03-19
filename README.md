@@ -20,7 +20,7 @@ Tech Stack
 
 Screenshots
 
-![intro Screens](screenshots/Intro.png)
+![intro Screens](screenshots/Intro.jpeg)
 
 Installation
 
