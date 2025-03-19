@@ -17,6 +17,11 @@ Tech Stack
 - Database: MySQL
 - Third-Party APIs: Spotify API
 
+
+Screenshots
+
+![intro Screens](screenshots/Intro.png)
+
 Installation
 
 1. Clone the repository:
