@@ -18,10 +18,6 @@ Tech Stack
 - Third-Party APIs: Spotify API
 
 
-Screenshots
-
-![intro Screens](screenshots/Intro.jpeg) ![Login](screenshots/login.jpeg) ![intro Screens](screenshots/Intro.jpeg) ![intro Screens](screenshots/Intro.jpeg)
-
 Installation
 
 1. Clone the repository:
